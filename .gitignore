@@ -1,0 +1,6 @@
+*.exe
+*.dll
+*.xp3
+*.zip
+*.7z
+__pycache__/
